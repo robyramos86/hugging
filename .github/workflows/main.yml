@@ -3,7 +3,7 @@ on:
   push:
     branches: [main]
 
-  # to run this workflow manually from the Actions tab
+  # to run this workflow manually from the Actions tabv
   workflow_dispatch:
 
 jobs:
